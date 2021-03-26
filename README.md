@@ -1,4 +1,4 @@
-# Data-Analysis--Uber-New-York-rides
+# Data-Analysis--Uber_New_York_rides
 
 In this repository you will find the notebook for carrying out Exploratory Data Analysis (EDA) on Uber rides in New York city. The different analytical problems for 
 which answers are provided in the jupyter notebook are written in the 'problem statement' text file and also in the notebook.
